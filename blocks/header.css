@@ -24,16 +24,13 @@
     display: flex;
     align-items: center;
     column-gap: 20px;
-  }
-  
-  .nav__link {
     color: #000000;
     text-decoration: none;
     font-weight: 500;
   }
   
   .nav__link:hover {
-    color: #1f69c9;
+    color: #2f80ed;
   }
   
   .header__title {
@@ -101,8 +98,6 @@
     transition: color 0.15s ease-in-out 0s;
   }
   
-  .nav__link:hover {
-    color: #2f80ed;
-  }
+  
   
  

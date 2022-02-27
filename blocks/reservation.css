@@ -4,7 +4,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding:100px 0 120px;  
+    padding:100px 0 120px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -42,12 +42,11 @@
 
 .form__input{
     width: 100%;
-    line-height: 35px;
     margin-bottom: 32px;
     font-size: 20px;
     line-height: 30px;
     color: #838383;
-    padding:10px;  
+    padding:10px;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
