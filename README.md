@@ -13,4 +13,6 @@ This is the second project of the Web Development program at Practicum by Yandex
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Adding customable coffee / shakes creating options.
+Dynamic reservation which allows to check when each table is free.
+Delivery panel.
