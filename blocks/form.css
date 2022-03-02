@@ -1,0 +1,61 @@
+.form__fieldset{
+    border: none;
+    padding:0;
+    margin:0;
+}
+
+.form__label{
+    display: block;
+    margin-bottom:8px;
+    font-weight: 500;
+
+}
+
+.form__input{
+    width: 100%;
+    margin-bottom: 32px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #838383;
+    padding:10px;
+    border:1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.form__button{
+    display:block;
+    width: 100%;
+    margin: 0 0 32px;
+    font-weight: 500px;
+    line-height: 30px;
+    padding:10px;
+    background-color: #2f80ed;
+    color:#ffffff;
+    border: none;
+    border-radius: 4px;
+    transition: opacity linear 0.2s 0s;
+}
+
+.form__button:hover{
+    opacity: 0.7;
+}
+
+.form__fieldset-checkbox{
+    text-align: center;
+}
+
+/* width supposed to be 8x8 but looks terribly small compared to brief */
+.form__checkbox {
+    border-radius: 2px;
+    min-width: 8px;
+    min-height: 8px;
+    vertical-align: middle;
+  }
+
+.form__label-checkbox{
+      display: inline;
+      margin-left: 12px;
+      vertical-align: middle;
+  }
