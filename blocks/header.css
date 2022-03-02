@@ -17,7 +17,7 @@
   }
   
   .logo {
-    width: 150px;
+    width: 125px;
   }
 
   .nav__links {
@@ -44,10 +44,10 @@
     position: relative;
     font-size:60px;
     line-height: 72px;
-    font-weight: 400;
+    font-weight: 500;
   }
 
-  .header__title-decorated{
+  .header__span-accent{
       display: block;
       color: #2f80ed;
       font-family: 'Noto Serif' ,'Times New Roman' ,serif;
@@ -89,7 +89,7 @@
   }
 
 
-  .header__column-heading {
+  .header__paragraph {
     font-weight:500;
     margin: 0;
   }

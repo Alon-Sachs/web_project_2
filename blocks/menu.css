@@ -29,7 +29,7 @@
     font-weight: 400;
 }
 
-.cards{
+.menu__cards{
     margin:100px 0;
     display: flex;
     flex-wrap: wrap;
@@ -65,7 +65,12 @@
     font-family: 'Noto Serif' ,'Times New Roman' ,serif;
 }
 
-.card__line-break{
+.card__list-item:last-of-type{
+     padding: 0;
+}
+
+.card__list-divider{
     flex-grow:1;
-    margin:0 10px 4px;
+    border-bottom: 1px white solid;
+    margin:0 8px 5px;
 }
